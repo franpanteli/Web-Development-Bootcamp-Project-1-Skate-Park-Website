@@ -1,6 +1,6 @@
 # Web-development-bootcamp-projects
 
-<strong> About this repository </strong>
+<h2> About this repository </h2>
 
 <p>This repository contains my work for the twelve-week AMSxOpenClassrooms web development skills bootcamp. This consisted firstly of video lectures and tutorials on the OpenClassrooms platform, followed by three practical assessed projects in web development. This consists of an introductory HTML project, followed by two more in-depth six-week projects. This repository consists of my course files and notes for this bootcamp.</p>  
 
