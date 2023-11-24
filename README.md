@@ -1,10 +1,10 @@
 # Web-development-bootcamp-projects
 
-<h1> About this repository </h1>
+<h2> About this repository </h2>
 
 <p>This repository contains my work for the twelve-week AMSxOpenClassrooms web development skills bootcamp. This consisted firstly of video lectures and tutorials on the OpenClassrooms platform, followed by three practical assessed projects in web development. This consists of an introductory HTML project, followed by two more in-depth six-week projects. This repository consists of my course files and notes for this bootcamp.</p>  
 
-<h1> Project 1 - Riding Cities </h1>
+<h2> Project 1 - Riding Cities </h2>
 
 <p> Riding Cities is the first web development project I completed during this bootcamp and was produced to develop HTML skills. </p>
 
