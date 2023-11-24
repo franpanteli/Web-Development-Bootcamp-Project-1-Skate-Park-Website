@@ -25,7 +25,7 @@ This first consisted of two courses on the OpenClassrooms platform:</p>
 
 <p> This project was examined in a 30 minute oral presentation I gave on the OpenClassrooms platform, to develop oral and presentation skills. My flashcards from this assessment are available in the repository called '1iii Riding Cities Assessment.' </p>
 
-<strong> Project 2 - Booki </strong>
+<h2> Project 2 - Booki </h2>
 
 <p> Booki is the second web development project I completed during this bootcamp and was produced to develop HTML and CSS skills. This consisted of three further courses on the OpenClassrooms platform:</p>
 
