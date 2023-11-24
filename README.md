@@ -18,7 +18,7 @@ This first consisted of two courses on the OpenClassrooms platform:</p>
   </ul> 
 <p>The prior was a 4 hour long course on configuring and using an IDE (VS Code) and was taught by Will Alexander and Mila Paul. The latter was a 10 hour long course and was produced by Emily Reese. This covered HTML and CSS. My notes from these are included in the project files for Riding Cities.</p>
 
-<h3>1ii Riding Cities Website:</h3>
+<h3>1ii Riding Cities Website</h3>
 <p> Riding Cities is the first project which was produced as part of this bootcamp, to apply these skills. I was provided project files and a brief for this (although I have only included my final project files in this repository). For this, I was provided files for the current version of a website for a skateboarding company (Riding Cities) and a Figma mockup of items to be added to this page. I used HTML in VS Code to create the Founding Members and Footer sections for the project and deployed the project using Netlify, at (https://fran-web-dev-bootcamp-project-1.netlify.app). </p>
 
 <p><em>1iii Riding Cities Assessment:</em></p>
@@ -29,7 +29,7 @@ This first consisted of two courses on the OpenClassrooms platform:</p>
 
 <p> Booki is the second web development project I completed during this bootcamp and was produced to develop HTML and CSS skills. This consisted of three further courses on the OpenClassrooms platform:</p>
 
-<h3> 2i: Booki Course Notes <h3>
+<h3> 2i: Booki Course Notes </h3>
   <ul>
     <li>Design a Mock-up for Web Development With Figma</li>
     <li>Create Web Page Layouts With CSS</li>
