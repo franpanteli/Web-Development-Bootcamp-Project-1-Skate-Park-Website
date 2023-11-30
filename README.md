@@ -8,7 +8,7 @@
 
 <p><strong>Booki (https://fran-web-dev-bootcamp-project-2.netlify.app desktops & large desktops only): </strong> The second project in this web development bootcamp was for a travel agency called Booki. This was an intensive six-week project, designed to develop the HTML and CSS skills of its students. This provided us with a mockup of the Booki travel agency webpage in Figma and tasked us with converting it into a webpage. This was with a series of courses on the OpenClassrooms platform, mentoring sessions and live skills webinars. Similarly, this was assessed with a second thirty-minute presentation on the OpenClassrooms platform.</p>
 
-<p><strong>OhMyFood: </strong> the third project this bootcamp entailed was OhMyFood. This was a six-week project, with the aim of developing and applying skills in SaaS, GitHub and applying animations to webpages.</p>
+<p><strong>ohmyfood: </strong> the third project this bootcamp entailed was ohmyfood. This was a six-week project, with the aim of developing and applying skills in SaaS, GitHub and applying animations to webpages.</p>
 
 <h2> Project 1 - Riding Cities  </h2>
 <h3>1i Riding Cities Course Notes</h3>
@@ -74,3 +74,7 @@ For this, three further courses were first completed on the OpenClassrooms platf
 
 <h3> 2iii Booki Public Speaking Skills Assessment</h3>
 <p>This project was examined in a 30 minute oral presentation I gave on the OpenClassrooms platform, to develop public speaking and presentation skills. My flashcards from this assessment are available in the repository called '2iii Booki Assessment.'</p>
+
+<h2> Project 3 - ohmyfood </h2>
+<h3>3i ohmyfood Course Notes</h3>
+<p>Insert text here</p>
