@@ -53,7 +53,7 @@ For this, three further courses were first completed on the OpenClassrooms platf
 
 <p>I worked through these problems using a snowballing approach, by solving the easiest one first and building. In order to improve this, I would first work on developing the atoms and most repeatable building blocks of the webpage in a separate HTML sandbox before solving any of these problems. This would be in order to make the code more repurposable should changes to its elements be required (e.g if the project mockup changed).</p>
 
-<h4>Webpage Links</h4>
+<h4>Webpage Links (Desktops, Large Desktops)</h4>
 <ul>
 	<li>https://fran-web-dev-bootcamp-project-2.netlify.app - This is the link to the webpage I created using VSCode called Booki </li>
 	<li>https://fran-web-dev-bootcamp-2-sandbox.netlify.app - This is a link to my HTML sandbox for this project. This contains additional work I did to add links around the cards in the centre of the section on the webpage, as an extension to the project. The HTML for this can be found in the sandbox file in folder 2ii </li>
