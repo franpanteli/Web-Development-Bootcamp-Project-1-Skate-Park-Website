@@ -77,7 +77,7 @@ For this, three further courses were first completed on the OpenClassrooms platf
 
 <h2> Project 3 - ohmyfood </h2>
 <h3>3i ohmyfood Course Notes</h3>
-<p>'ohmyfood' is the third web development project I completed during this bootcamp. This was produced to integrate Sass animations with the HTML and CSS skills, building from the previous project. The primary aim of this was to develop these skills by completing the course material and to apply them by [INSERT START] , using GitHub, using GitHub, using GitHub, using GitHubconverting the mockup of a travel agency called Booki into a webpage. This mockup was provided in Figma. [INSERT END] </p>
+<p>'ohmyfood' is the third web development project I completed during this bootcamp. This was produced to integrate Sass animations with the HTML and CSS skills building from the previous project. The primary aim of this was to develop these skills by completing the course material and to apply them by [INSERT START] , using GitHub, using GitHub, using GitHub, using GitHubconverting the mockup of a travel agency called Booki into a webpage. This mockup was provided in Figma. [INSERT END] </p>
 <p>
 
 </p>
