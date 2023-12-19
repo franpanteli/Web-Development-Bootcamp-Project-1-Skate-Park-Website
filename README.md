@@ -87,6 +87,6 @@ For this, three further courses were first completed on the OpenClassrooms platf
   <li><strong>Manage Your Code Project With Git and GitHub </strong> - the first course was a 6-hour long course on Git and GitHub. This was taught by Max Wardeh and covered Git commands, branching systems, using Git Reset and troubleshooting</li>
   <li><strong>Produce Maintainable CSS With Sass</strong> - the second was a 15-hour long course which included 7-1 file patterning, BEM selectors, specificity, CSS Preprocessors, Sass variables / extensions / functions, mixins, conditionals, advanced Sass data types, loops, breakpoints, and Autoprefixer. This course was produced by Pat Gerke</li>
 
-  <li><strong>Create Modern CSS Animations</strong> - this was a 15-hour-long course covering CSS transitions / transformations, the 12 principles of animation, timing functions, opacity, anchor points using transform-origin, Chrome DevTools, CSS @keyframes and Chrome's animation too. This course was also produced by Pat Gerke</li>
+  <li><strong>Create Modern CSS Animations</strong> - this was a 15-hour-long course covering CSS transitions / transformations, the 12 principles of animation, timing functions, opacity, anchor points using transform-origin, Chrome DevTools, CSS @keyframes and Chrome's animation tool. This course was also produced by Pat Gerke</li>
   </ul> 
   <h3> 3ii ohmyfood Website</h3>
