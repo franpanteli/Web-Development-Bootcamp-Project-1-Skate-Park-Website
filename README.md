@@ -1,4 +1,4 @@
-# Web-development-bootcamp-projects
+# Web-Development-Bootcamp-Projects
 
 <h2> About This Repository </h2>
 
