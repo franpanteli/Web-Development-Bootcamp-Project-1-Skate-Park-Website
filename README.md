@@ -2,7 +2,7 @@
 
 <h2> About This Repository </h2>
 
-<p>This repository contains my work for the twelve-week AMSxOpenClassrooms web development skills bootcamp. This consisted firstly of video lectures and tutorials on the OpenClassrooms platform, followed by three practical assessed web development projects. This repository consists of my course files and notes for this bootcamp.</p>  
+<p>This repository contains my work for the first project in the twelve-week AMSxOpenClassrooms web development skills bootcamp. This consisted firstly of video lectures and tutorials on the OpenClassrooms platform, followed by three practical assessed web development projects. This repository consists of my course files and notes for the first project in the bootcamp.</p>  
 
 <p> <strong>Riding Cities (https://fran-web-dev-bootcamp-project-1.netlify.app): </strong>The first project in this bootcamp was Riding Cities, which tasked students with adding elements to an existing webpage in HTML for a skateboarding company. This was achieved by first completing courses and live sessions to develop HTML skills and secondly by garnering an understanding of its project brief. This was assessed through a thirty-minute presentation on the OpenClassrooms platform.</p>  
 
